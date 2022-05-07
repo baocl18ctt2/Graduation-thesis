@@ -1,0 +1,11 @@
+{
+    "interval": 5,
+    "stepsize": 1.0,
+    "minimizer_kwargs":
+    {
+        "method": "L-BFGS-B",
+        "jac": "3-point"
+    },
+    "niter_success": 10,
+    "disp": true
+}
